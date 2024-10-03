@@ -12,6 +12,7 @@ Skills: Python Programming, Statistics, Data Analysis & Visualization, Machine L
 ### Learning & Development:
 Currently completing:
 Data Science and Artificial Intelligence (Intellipaat) – Expected completion: [November, 2024]
+
 I’m currently learning Genrative AI
 
 ### Contact Me:
