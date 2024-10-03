@@ -1,1 +1,18 @@
 # aahil
+## Hi, I'm Aahil 👋  
+Skills: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, Deep Learning, Time Serise, NLP SQL & Analytics
+### Tools & Technologies:
+- **Data Analysis:** Excel, Power BI, Python (Pandas, Matplotlib, Plotly), SQL
+- **Web Scraping:** Beautiful Soup, Requests
+- **Visualization:** Power BI, Seaborn
+- **Machine Learning:** scikit-learn (Python)
+- **Version Control:** Git, GitHub(Basic understanding of uploading projects, tracking changes, and collaboration)
+
+  
+### Learning & Development:
+Currently completing:
+Data Science and Artificial Intelligence (Intellipaat) – Expected completion: [November, 2024]
+
+### Contact Me:
+- Email: aahil@email.com
+- LinkedIn: [Aahil LinkedIn](https://www.linkedin.com/in/aahil-profile)
