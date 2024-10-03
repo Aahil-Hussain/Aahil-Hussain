@@ -1,6 +1,8 @@
 
 ## Hi, I'm Aahil 👋  
 Skills: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, Deep Learning, Time Serise, NLP SQL & Analytics
+Open to opportunities!
+
 ### Tools & Technologies:
 - **Data Analysis:** Excel, Power BI, Python (Pandas, Matplotlib, Plotly), SQL
 - **Web Scraping:** Beautiful Soup, Requests
