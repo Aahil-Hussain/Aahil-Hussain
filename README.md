@@ -19,7 +19,6 @@ Data Science and Artificial Intelligence (Intellipaat) – Expected completion: 
 I’m currently learning Genrative AI
 
 ### Contact Me:
-- [Email me](mailto:aahilhussain0407@gmail.com)
-- Email: aahilhussain0407@gmail.com
+- Email: [Email me](https://mail.google.com/mail/?view=cm&fs=1&to=aahilhussain0407@gmail.com)
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/aahilhussain)
 
