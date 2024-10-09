@@ -20,4 +20,5 @@ I’m currently learning Genrative AI
 
 ### Contact Me:
 - Email: aahilhussain0407@gmail.com
-- LinkedIn: [Aahil LinkedIn](www.linkedin.com/in/aahilhussain)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/aahilhussain)
+
